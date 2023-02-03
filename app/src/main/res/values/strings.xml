@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BabyBuy</string>
+    <string name="create_account">Create Account</string>
+    <string name="upload_your_image">Upload Your Image</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="i_m_already_a_member">I am already a member.</string>
+    <string name="i_am_a_new_user">I am a New user.</string>
+    <string name="profile">Profile</string>
+    <string name="sign_in_using_email_and_password">Sign In using Email and Password</string>
+    <string name="sign_up_using_email_and_password">Sign Up using Email and Password</string>
+    <string name="best_way_to_invest_your_money">Best way to invest Your Money!</string>
+    <string name="or">Or</string>
+    <string name="login">Login</string>
+    <string name="no_data_found">No data found.</string>
+    <string name="add_record">Add Record</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_desc">Enter Desc</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="image_url">Image Url</string>
+</resources>
